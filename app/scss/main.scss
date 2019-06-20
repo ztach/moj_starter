@@ -38,7 +38,7 @@ body{
 &__link{
 	color:white;
 	text-decoration: none;
-	border-bottom: 8px #0B3142 solid;
+	border-bottom: 8px $source solid;
 	}
 &__link:hover{
 		color:yellow;
